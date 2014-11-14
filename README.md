@@ -93,4 +93,4 @@ Animations/Assets/Graphics
 
 (7) What changed
 
-We changed our iteration two goals after starting to work with Unreal Engine.  We found that we needed more time to learn the API before we could begin to incorporate some of the more advanced features we wanted to. In light of this we changed the use cases we were going to implement.
+We changed our iteration one goals after starting to work with Unreal Engine.  We found that we needed more time to learn the API before we could begin to incorporate some of the more advanced features we wanted to. In light of this we changed the use cases we were going to implement.
