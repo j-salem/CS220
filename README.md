@@ -84,10 +84,13 @@ The following have been implemented:
 
 Items/Inventory
 - Betty/Max
+
 Battle States & Actions
-- TJ/David
+- TJ/David  
+
 Movement/Base Classes
-- John/Adam
+- John/Adam  
+
 Animations/Assets/Graphics
 - Melinda/Steven
 
