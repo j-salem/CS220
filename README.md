@@ -6,6 +6,10 @@ Submission git for Comp Sci 220
 GAME
 ====
 
+Play
+----
+If you have a Mac, you can unzip the file in the `Packages` directory to get a playable version of the first level.  It's missing several assets and uses debug messages to notify of events, but it *_IS_* playable.
+
 Instructions for Compiling
 ---------------------------
 
