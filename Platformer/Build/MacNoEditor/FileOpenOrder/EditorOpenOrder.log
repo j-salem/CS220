@@ -1,4 +1,4 @@
-"/Users/jsalem/Documents/Uchicago/CS220/cs220/Platformer/Platformer.uproject" 1
+"/Users/jsalem/Documents/Uchicago/git/CS220/Platformer/Platformer.uproject" 1
 "../../../Engine/Plugins/2D/Paper2D/Paper2D.uplugin" 2
 "../../../Engine/Plugins/Developer/BlankPlugin/BlankPlugin.uplugin" 3
 "../../../Engine/Plugins/Developer/PerforceSourceControl/PerforceSourceControl.uplugin" 4
@@ -471,7 +471,7 @@
 "../../../Engine/Content/Localization/ICU/icudt53l/curr/zh_Hant_TW.res" 471
 "../../../Engine/Config/Base.ini" 472
 "../../../Engine/Config/BaseEngine.ini" 473
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Config/DefaultEngine.ini" 474
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Config/DefaultEngine.ini" 474
 "../../../Engine/Config/Mac/MacEngine.ini" 475
 "/Users/jsalem/Library/Preferences/Unreal Engine/PlatformerEditor/Mac/Engine.ini" 476
 "/Users/jsalem/Library/Preferences/Unreal Engine/PlatformerEditor/CleanSourceConfigs/Engine.ini" 477
@@ -479,11 +479,11 @@
 "/Users/jsalem/Library/Preferences/Unreal Engine/PlatformerEditor/Mac/Game.ini" 479
 "/Users/jsalem/Library/Preferences/Unreal Engine/PlatformerEditor/CleanSourceConfigs/Game.ini" 480
 "../../../Engine/Config/BaseInput.ini" 481
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Config/DefaultInput.ini" 482
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Config/DefaultInput.ini" 482
 "/Users/jsalem/Library/Preferences/Unreal Engine/PlatformerEditor/Mac/Input.ini" 483
 "/Users/jsalem/Library/Preferences/Unreal Engine/PlatformerEditor/CleanSourceConfigs/Input.ini" 484
 "../../../Engine/Config/BaseEditor.ini" 485
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Config/DefaultEditor.ini" 486
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Config/DefaultEditor.ini" 486
 "/Users/jsalem/Library/Preferences/Unreal Engine/PlatformerEditor/Mac/Editor.ini" 487
 "/Users/jsalem/Library/Preferences/Unreal Engine/PlatformerEditor/CleanSourceConfigs/Editor.ini" 488
 "../../../Engine/Config/BaseEditorLayout.ini" 489
@@ -756,48 +756,48 @@
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 756
 "../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 757
 "../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 758
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Players/Green/alienGreen_walk.uasset" 759
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Players/Green/alienGreen_walk1_Sprite.uasset" 760
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Materials/TranslucentUnlitSpriteMaterial.uasset" 761
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Players/Green/Textures/alienGreen_walk1.uasset" 762
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Players/Green/alienGreen_walk2_Sprite.uasset" 763
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Players/Green/Textures/alienGreen_walk2.uasset" 764
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/1/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3FD858FE4996BEFB8EAF97B4B75F1__AA8145F931A0682E4DFC56B9F4BB6E955305BE15.udd" 765
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/0/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3AAF078743EAADA1A1BE928F41C5B__1E3BD8E22588674AD7372587CA567DE0EE37B674.udd" 766
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/4/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3AAF078743EAADA1A1BE928F41C5B__BC2645FCBEB3D90900BAC8E24E395F7584E2F8A3.udd" 767
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/1/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3FD858FE4996BEFB8EAF97B4B75F1__B99729217399ED5B44236C101230B7E965965528.udd" 768
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Players/Green/alienGreen_idle.uasset" 769
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Players/Green/alienGreen_stand_Sprite.uasset" 770
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Players/Green/Textures/alienGreen_stand.uasset" 771
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Players/Green/alienGreen_jump.uasset" 772
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/4/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3A2C5136484CC97D7428D48586C93__348D94972F4B09557C43E246B3094E8BEA70D5C1.udd" 773
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Players/Green/alienGreen_jump_Sprite.uasset" 774
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/4/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3A2C5136484CC97D7428D48586C93__44204965DFC42809C24BE73F7361383D91370A0A.udd" 775
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Players/Green/Textures/alienGreen_jump.uasset" 776
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/1/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_63AE85E34E6D4FE39E21AA86C9E4E__77E985D5249A6D831B90BE1112CFE5B9CD005F74.udd" 777
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/4/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_63AE85E34E6D4FE39E21AA86C9E4E__CADC9AEE8C2A623DEB4B5992CFBD3DDD6C4FF99C.udd" 778
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/4.5/Saved/Config/Mac/SourceControlSettings.ini" 779
-"/Users/jsalem/Library/Preferences/Unreal Engine/PlatformerEditor/CleanSourceConfigs/SourceControlSettings.ini" 780
-"/Users/jsalem/Library/Preferences/Unreal Engine/PlatformerEditor/Mac/SourceControlSettings.ini" 781
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 782
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 783
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 784
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 785
-"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 786
-"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 787
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 788
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 789
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 790
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 791
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 792
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 793
-"../../../Engine/Content/EngineFonts/TinyFont.uasset" 794
-"../../../Engine/Content/EngineFonts/SmallFont.uasset" 795
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Intermediate/CachedAssetRegistry.bin" 796
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/0/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3AAF078743EAADA1A1BE928F41C5B__67BE65EFD9C1AD78661B3D72773383B4228C9B26.udd" 797
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/6/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3FD858FE4996BEFB8EAF97B4B75F1__4692F3DB4650925BB20BEE284477EE5CB9DE50ED.udd" 798
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/2/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3A2C5136484CC97D7428D48586C93__50A0AA35D6D1A2FEEC8A8A141FC5F8C4E928DF8A.udd" 799
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/4/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_63AE85E34E6D4FE39E21AA86C9E4E__4ACFF1113A9A20114676B5F4F05E11159ACC877C.udd" 800
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Players/Green/alienGreen_walk.uasset" 759
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Players/Green/alienGreen_walk1_Sprite.uasset" 760
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Materials/TranslucentUnlitSpriteMaterial.uasset" 761
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Players/Green/Textures/alienGreen_walk1.uasset" 762
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Players/Green/alienGreen_walk2_Sprite.uasset" 763
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Players/Green/Textures/alienGreen_walk2.uasset" 764
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Players/Green/alienGreen_idle.uasset" 765
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Players/Green/alienGreen_stand_Sprite.uasset" 766
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Players/Green/Textures/alienGreen_stand.uasset" 767
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Players/Green/alienGreen_jump.uasset" 768
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Players/Green/alienGreen_jump_Sprite.uasset" 769
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Players/Green/Textures/alienGreen_jump.uasset" 770
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/4.5/Saved/Config/Mac/SourceControlSettings.ini" 771
+"/Users/jsalem/Library/Preferences/Unreal Engine/PlatformerEditor/CleanSourceConfigs/SourceControlSettings.ini" 772
+"/Users/jsalem/Library/Preferences/Unreal Engine/PlatformerEditor/Mac/SourceControlSettings.ini" 773
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 774
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 775
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 776
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 777
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 778
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 779
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 780
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 781
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 782
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 783
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 784
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 785
+"../../../Engine/Content/EngineFonts/TinyFont.uasset" 786
+"../../../Engine/Content/EngineFonts/SmallFont.uasset" 787
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Intermediate/CachedAssetRegistry.bin" 788
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/0/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3AAF078743EAADA1A1BE928F41C5B__67BE65EFD9C1AD78661B3D72773383B4228C9B26.udd" 789
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/0/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3AAF078743EAADA1A1BE928F41C5B__1E3BD8E22588674AD7372587CA567DE0EE37B674.udd" 790
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/4/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3AAF078743EAADA1A1BE928F41C5B__BC2645FCBEB3D90900BAC8E24E395F7584E2F8A3.udd" 791
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/6/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3FD858FE4996BEFB8EAF97B4B75F1__4692F3DB4650925BB20BEE284477EE5CB9DE50ED.udd" 792
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/1/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3FD858FE4996BEFB8EAF97B4B75F1__AA8145F931A0682E4DFC56B9F4BB6E955305BE15.udd" 793
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/1/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3FD858FE4996BEFB8EAF97B4B75F1__B99729217399ED5B44236C101230B7E965965528.udd" 794
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/2/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3A2C5136484CC97D7428D48586C93__50A0AA35D6D1A2FEEC8A8A141FC5F8C4E928DF8A.udd" 795
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/4/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3A2C5136484CC97D7428D48586C93__348D94972F4B09557C43E246B3094E8BEA70D5C1.udd" 796
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/4/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_3A2C5136484CC97D7428D48586C93__44204965DFC42809C24BE73F7361383D91370A0A.udd" 797
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/4/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_63AE85E34E6D4FE39E21AA86C9E4E__4ACFF1113A9A20114676B5F4F05E11159ACC877C.udd" 798
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/1/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_63AE85E34E6D4FE39E21AA86C9E4E__77E985D5249A6D831B90BE1112CFE5B9CD005F74.udd" 799
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/4/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_63AE85E34E6D4FE39E21AA86C9E4E__CADC9AEE8C2A623DEB4B5992CFBD3DDD6C4FF99C.udd" 800
 "../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 801
 "../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 802
 "../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 803
@@ -819,46 +819,56 @@
 "../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 819
 "../../../Engine/Content/Maps/Entry.umap" 820
 "../../../Engine/Content/EngineMaterials/DefaultNormal.uasset" 821
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Saved/Autosaves/Game/Maps/UEDPCPlatformerMap.umap" 822
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Backgrounds/colored_grass_Sprite.uasset" 823
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Materials/MaskedUnlitSpriteMaterial.uasset" 824
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Backgrounds/Textures/colored_grass.uasset" 825
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Ground/Grass/grassCliff_left_Sprite.uasset" 826
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Ground/Grass/Textures/grassCliff_left.uasset" 827
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Ground/Grass/grassCliff_right_Sprite.uasset" 828
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Ground/Grass/Textures/grassCliff_right.uasset" 829
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Ground/Grass/grassLeft_Sprite.uasset" 830
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Ground/Grass/Textures/grassLeft.uasset" 831
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Ground/Grass/grassMid_Sprite.uasset" 832
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Ground/Grass/Textures/grassMid.uasset" 833
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Ground/Grass/grassRight_Sprite.uasset" 834
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/KenneySpritePack/Ground/Grass/Textures/grassRight.uasset" 835
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/Sprites/Platform.uasset" 836
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/Textures/2DBackgroundBlockAtlas.uasset" 837
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/Sprites/PrototypingSprite.uasset" 838
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/Materials/PrototypeMaterial.uasset" 839
-"../../../../../../jsalem/Documents/Uchicago/CS220/cs220/Platformer/Content/Textures/PrototypeTexture.uasset" 840
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/1/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_EA13FA0246F9B29DB195E79364DBE__74AB5BBE500676D94ED14952101F430C7D588F88.udd" 841
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/5/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_869628A3445B724F73F05E80C9877__6BBFA7372C0A51F3B56970B3C0247C945B19F156.udd" 842
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/0/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_22DB65984BA30EE0A471D3A907813__D3299AEFBD740D9AAFB903EC8F10CAD73FE92905.udd" 843
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/2/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_EA13FA0246F9B29DB195E79364DBE__FE13368475F124B4C6A0A0D91B67AFACD731D1FC.udd" 844
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/3/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_869628A3445B724F73F05E80C9877__30E42E4255F5D7D39AE2BE34F375C450C4542A1F.udd" 845
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/2/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_22DB65984BA30EE0A471D3A907813__3EB22B1DDB56EF214D206458BF076FC68B609E00.udd" 846
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/2/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_1F2A51744554C71380B438945A4DA__A77FEA5069673776B172555361849CDEDED6533E.udd" 847
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/0/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_1F2A51744554C71380B438945A4DA__CE32791431924D9A4967739A7D4ED0D412A43F0D.udd" 848
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/4/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_4FB99A3A4A99E11372751F9EA200C__29D244D5D691F37E1B78A6262BF3EEB67B3ACD8F.udd" 849
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/8/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_4FB99A3A4A99E11372751F9EA200C__75FB7FF06534BF78EB0243CD21837241BCBDA916.udd" 850
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/2/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_869628A3445B724F73F05E80C9877__975EF1B04B01D53E899CA80BC3B8A2B75021DD6A.udd" 851
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/6/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_4D881DD245BC6C8C9A44CDA8D5C52__39E5AD2D43C527A90B8BA2196091BAC9E3D97AFD.udd" 852
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/9/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_DFEF6F6C48789F25CD3338B4C2A0A__5155CE544442B11DEBB3B3DD0DA1B76E01FB3D2F.udd" 853
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/3/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_869628A3445B724F73F05E80C9877__22C256B77AA5BBC66F16E492A3CC510B3FA47CFE.udd" 854
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/8/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_4D881DD245BC6C8C9A44CDA8D5C52__DCCC6C816D85DF595D439EB98A0F8861820CF425.udd" 855
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/1/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_869628A3445B724F73F05E80C9877__588FBAADA9A63B46EAC3799EDF63A2816DF20FAC.udd" 856
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/5/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_68E669A64B66F485830C239AE4B96__0BC2C3C125FE352CE1C6D65419214EC0C02ADCA8.udd" 857
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/3/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_DFEF6F6C48789F25CD3338B4C2A0A__64766E350EB5077E92CB71B5DEBB6B36FFB03F9A.udd" 858
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/9/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_DFEF6F6C48789F25CD3338B4C2A0A__439D8B6A38F5CF043D525F336A0B7D0C0D3AA090.udd" 859
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/6/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_68E669A64B66F485830C239AE4B96__32D783F124F8CF608FE6DD911F23C049B884B6C0.udd" 860
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/0/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_68E669A64B66F485830C239AE4B96__FEE82780326142F7FCB186D65AB43429A91ECFA1.udd" 861
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/6/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_DFEF6F6C48789F25CD3338B4C2A0A__E0B6F9129B7C3066C847FFAE7BD3F6C0D265172A.udd" 862
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/6/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_DFEF6F6C48789F25CD3338B4C2A0A__4336E6E9EC16ACAA61252807274FEDE34D3D24D1.udd" 863
-"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/1/8/MATSM_E1C1E89EE9AE4F3CA7B8E0F1C49B34EB_GLSL_150_MAC_1795__BC5N_BMSIN_DEV_SL_NO__D8CD814B681D0541B3D88A5B8774FCFC6C892116.udd" 864
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Saved/Autosaves/Game/Maps/UEDPCPlatformerMap.umap" 822
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/Blueprints/BP_PaperEnemy.uasset" 823
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Enemies/bee_animation.uasset" 824
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Enemies/Frames/bee_move_Sprite.uasset" 825
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Enemies/Textures/bee_move.uasset" 826
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Enemies/Frames/bee_Sprite.uasset" 827
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Enemies/Textures/bee.uasset" 828
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Backgrounds/colored_grass_Sprite.uasset" 829
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Materials/MaskedUnlitSpriteMaterial.uasset" 830
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Backgrounds/Textures/colored_grass.uasset" 831
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Ground/Grass/grassCliff_left_Sprite.uasset" 832
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Ground/Grass/Textures/grassCliff_left.uasset" 833
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Ground/Grass/grassCliff_right_Sprite.uasset" 834
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Ground/Grass/Textures/grassCliff_right.uasset" 835
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Ground/Grass/grassLeft_Sprite.uasset" 836
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Ground/Grass/Textures/grassLeft.uasset" 837
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Ground/Grass/grassMid_Sprite.uasset" 838
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Ground/Grass/Textures/grassMid.uasset" 839
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Ground/Grass/grassRight_Sprite.uasset" 840
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/KenneySpritePack/Ground/Grass/Textures/grassRight.uasset" 841
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/Sprites/Platform.uasset" 842
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/Textures/2DBackgroundBlockAtlas.uasset" 843
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/Sprites/PrototypingSprite.uasset" 844
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/Materials/PrototypeMaterial.uasset" 845
+"../../../../../../jsalem/Documents/Uchicago/git/CS220/Platformer/Content/Textures/PrototypeTexture.uasset" 846
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/2/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_FD7A17BD49879B2FAC753B8D0FD14__7FF672609D6AD216D562E6F973DE15F51401299F.udd" 847
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/1/3/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_74196186467C2CD9DA30A9BDAF6E1__0FAD9859CEAA351A689ED8D3890252105477F671.udd" 848
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/9/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_FD7A17BD49879B2FAC753B8D0FD14__0121BA17838754FBDAC73116751DD22359173E84.udd" 849
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/5/6/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_869628A3445B724F73F05E80C9877__6BBFA7372C0A51F3B56970B3C0247C945B19F156.udd" 850
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/9/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_74196186467C2CD9DA30A9BDAF6E1__E91EF4A2668D94966C4ECA19FAFCF726E77C8667.udd" 851
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/0/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_22DB65984BA30EE0A471D3A907813__D3299AEFBD740D9AAFB903EC8F10CAD73FE92905.udd" 852
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/3/3/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_869628A3445B724F73F05E80C9877__30E42E4255F5D7D39AE2BE34F375C450C4542A1F.udd" 853
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/2/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_869628A3445B724F73F05E80C9877__975EF1B04B01D53E899CA80BC3B8A2B75021DD6A.udd" 854
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/2/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_22DB65984BA30EE0A471D3A907813__3EB22B1DDB56EF214D206458BF076FC68B609E00.udd" 855
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/4/3/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_869628A3445B724F73F05E80C9877__22C256B77AA5BBC66F16E492A3CC510B3FA47CFE.udd" 856
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/1/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_869628A3445B724F73F05E80C9877__588FBAADA9A63B46EAC3799EDF63A2816DF20FAC.udd" 857
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/1/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_EA13FA0246F9B29DB195E79364DBE__74AB5BBE500676D94ED14952101F430C7D588F88.udd" 858
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/2/1/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_1F2A51744554C71380B438945A4DA__A77FEA5069673776B172555361849CDEDED6533E.udd" 859
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/3/2/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_EA13FA0246F9B29DB195E79364DBE__FE13368475F124B4C6A0A0D91B67AFACD731D1FC.udd" 860
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/4/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_4FB99A3A4A99E11372751F9EA200C__29D244D5D691F37E1B78A6262BF3EEB67B3ACD8F.udd" 861
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/0/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_1F2A51744554C71380B438945A4DA__CE32791431924D9A4967739A7D4ED0D412A43F0D.udd" 862
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/8/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_4FB99A3A4A99E11372751F9EA200C__75FB7FF06534BF78EB0243CD21837241BCBDA916.udd" 863
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/6/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_4D881DD245BC6C8C9A44CDA8D5C52__39E5AD2D43C527A90B8BA2196091BAC9E3D97AFD.udd" 864
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/9/4/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_DFEF6F6C48789F25CD3338B4C2A0A__5155CE544442B11DEBB3B3DD0DA1B76E01FB3D2F.udd" 865
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/6/5/2/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_68E669A64B66F485830C239AE4B96__0BC2C3C125FE352CE1C6D65419214EC0C02ADCA8.udd" 866
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/8/8/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_4D881DD245BC6C8C9A44CDA8D5C52__DCCC6C816D85DF595D439EB98A0F8861820CF425.udd" 867
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/5/9/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_DFEF6F6C48789F25CD3338B4C2A0A__439D8B6A38F5CF043D525F336A0B7D0C0D3AA090.udd" 868
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/3/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_DFEF6F6C48789F25CD3338B4C2A0A__64766E350EB5077E92CB71B5DEBB6B36FFB03F9A.udd" 869
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/9/6/7/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_68E669A64B66F485830C239AE4B96__32D783F124F8CF608FE6DD911F23C049B884B6C0.udd" 870
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/0/0/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_68E669A64B66F485830C239AE4B96__FEE82780326142F7FCB186D65AB43429A91ECFA1.udd" 871
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/0/6/5/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_DFEF6F6C48789F25CD3338B4C2A0A__E0B6F9129B7C3066C847FFAE7BD3F6C0D265172A.udd" 872
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/7/6/9/TEXTURE_75F87CE100B546AAB8A1C4132AF9DB17_AUTODXT_DFEF6F6C48789F25CD3338B4C2A0A__4336E6E9EC16ACAA61252807274FEDE34D3D24D1.udd" 873
+"/Users/jsalem/Library/Application Support/Epic/UnrealEngine/Common/DerivedDataCache/2/1/8/MATSM_E1C1E89EE9AE4F3CA7B8E0F1C49B34EB_GLSL_150_MAC_1795__BC5N_BMSIN_DEV_SL_NO__D8CD814B681D0541B3D88A5B8774FCFC6C892116.udd" 874
